@@ -1,4 +1,18 @@
-/***********************************************************************
+/******************************************************************************
+ * Arlen Strausman
+ * 
+ * This is a Pool simulation game written for my computer graphics course.
+ * It is built upon a collision detection and animation program 
+ * designed by Thomas Kelliher. 
+ * 
+ * Functions written: createAimer, rackBoard, shoot, rackCue, aim, raisePower,
+ * lowerPower, elasiticityUp, elasticityDown, ballSizeUp, ballSizeDown, moveCueUp
+ * moveCueDown, moveCueLeft, moveCueRight,
+ * 
+ * Functions modified: readFile, createCircle, createBoard, display, init, 
+ * keyboard, mouse, idle, main
+ * 
+ * ****************************************************************************
  *  Tom Kelliher, Goucher College
  *  Feb. 15, 2013
  *  collision.cpp
@@ -7,7 +21,7 @@
  *  buffering and animation.  More importantly, it demonstrates collision
  *  detection and response for spheres (here, 2-D balls).  This works fine
  *  assuming we don't have "too many" collisions at one time.
- ***********************************************************************/
+ ******************************************************************************/
 
 #ifdef WIN32
 #include <Windows.h>
