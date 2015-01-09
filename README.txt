@@ -1,6 +1,21 @@
-Arlen Strausman's Pool Simulator Game:
+/******************************************************************************
+ * Author: Arlen Strausman
+ * 
+ * This is a Pool simulation game written for my computer graphics course.
+ * It is built upon a collision detection and animation program 
+ * designed by Thomas Kelliher. 
+ * 
+ * Functions written: createAimer, rackBoard, shoot, rackCue, aim, raisePower,
+ * lowerPower, elasiticityUp, elasticityDown, ballSizeUp, ballSizeDown, moveCueUp
+ * moveCueDown, moveCueLeft, moveCueRight,
+ * 
+ * Functions modified: readFile, createCircle, createBoard, display, init, 
+ * keyboard, mouse, idle, main
+ * 
+ * ****************************************************************************
 
-A simple pool game for my graphics class. Skeleton class is authored by Thomas Kelliher.
+
+Arlen Strausman's Pool Simulator Game:
 
 ===========================================================================================
 -------------------------------------------------------------------------------------------
@@ -17,7 +32,7 @@ SHOOTING:
 - When you are satisfied with your direction and power, hit the space bar to shoot.
 
 -------------------------------------------------------------------------------------------
-RE-RACKIG:
+RE-RACKING:
 -------------------------------------------------------------------------------------------
 - To rerack the cue, use the 'c' key. To rerack the board, use the 'r' key.
 
