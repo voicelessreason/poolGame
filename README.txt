@@ -1,4 +1,7 @@
 Arlen Strausman's Pool Simulator Game:
+
+A simple pool game for my graphics class. Skeleton class is authored by Thomas Kelliher.
+
 ===========================================================================================
 -------------------------------------------------------------------------------------------
 GOAL:
@@ -30,3 +33,7 @@ COOKIES (EXTRA FEATURES):
 -------------------------------------------------------------------------------------------
 - To raise the size and mass of the ball, use the 'B' key. To lower them, 'b'.
 - To raise and lower the elasticity of collision, use the 'E' and 'e' keys, respectively
+
+
+
+Built upon skeleton Pool.cpp class provided by Thomas Kelliher (my professor)
